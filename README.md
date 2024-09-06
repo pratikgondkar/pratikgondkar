@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikgondkar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
