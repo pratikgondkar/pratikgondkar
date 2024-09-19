@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pratikgondkar
 - 👀 I’m interested in coding
-- 🌱 I’m currently DevOps
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me pratikgondkar4040@gmail.com
 
 
 <!---
